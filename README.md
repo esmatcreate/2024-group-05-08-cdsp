@@ -22,6 +22,25 @@ To pinpoint the major contributors to the quality of education and literacy rate
 For our project, we extensively utilize the UNICEF dataset on education, covering a wide spectrum of education levels, ranging from pre-primary education to youth and adult education. This dataset places a strong emphasis on measuring learning outcomes, skills acquisition, and ensuring equity in educational contexts. It is designed to address the nuances of both developmental and emergency settings.More information about the dataset can be found 
 <a href="https://github.com/MIT-Emerging-Talent/2024-group-08-cdsp/tree/main/education_dataset" target="_blank">Here</a>
 
+### Methodology and Techniques Employed:
+- Utilized exploratory data analysis (EDA) techniques to understand the distribution and patterns in the UNICEF education dataset.
+- Applied statistical analysis to identify correlations and trends between various education indicators and literacy rates.
+- Employed machine learning models such as regression and classification to predict literacy rates based on demographic and socioeconomic factors.
+
+### Tools and Technologies:
+- Python programming language was the primary tool for data manipulation, analysis, and modeling.
+- Libraries such as Pandas, NumPy, and Matplotlib were used for data handling, visualization, and exploratory analysis.
+- Scikit-learn library was employed for machine learning modeling and evaluation.
+
+### Data Preprocessing:
+- Conducted data cleaning to handle missing values, outliers, and inconsistencies in the dataset.
+- Feature engineering techniques were applied to create new variables and transform existing ones for better model performance.
+
+### Model Evaluation:
+- Utilized cross-validation techniques to assess the performance of machine learning models.
+- Evaluated model performance metrics such as mean squared error (MSE), R-squared, and classification accuracy.
+
+
 
 #### Data Source
 
